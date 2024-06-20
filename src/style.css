@@ -76,7 +76,7 @@ nav {
 	position: relative;
 }
 
-.conatiner {
+.container {
 	background-color: var(--off-white);
 	padding: 24px 48px;
 	width: 80%;
@@ -84,9 +84,19 @@ nav {
 	border-radius: 16px;
 }
 
+.section-title {
+	font-family: "Tangerine", cursive;
+	font-size: var(--font-xxlarge);
+	text-align: center;
+}
+
 .section-header {
 	font-family: "Tangerine", cursive;
 	font-size: var(--font-xlarge);
+	margin-bottom: 8px;
+}
+
+.section-content {
 	margin-bottom: 8px;
 }
 

@@ -5,7 +5,7 @@ const loadMenu = () => {
 
 	const createSection = (title, content) => {
 		const container = document.createElement("div");
-		container.classList.add("conatiner");
+		container.classList.add("container");
 		contentDiv.append(container);
 	};
 };
